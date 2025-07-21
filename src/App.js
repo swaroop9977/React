@@ -1,5 +1,8 @@
 import React, { useState } from 'react';
+<<<<<<< HEAD
 import main from './components/main';
+=======
+>>>>>>> 98990158ce3944da749bac259110aa6e2ed35ef0
 import Header from './components/Header';
 import SymptomsForm from './components/SymptomsForm';
 import Results from './components/Results';
