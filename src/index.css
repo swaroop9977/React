@@ -1,0 +1,35 @@
+/* index.css */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #cc7979;
+  background-image: url('./assets/flat-lay-health-still-life-arrangement-with-copy-space_23-2148854064.avif'); /* Path to the image */
+  background-size: cover; /* Cover the entire component */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat;
+  min-height: 100vh; /* Full height for the viewport */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+button {
+  cursor: pointer;
+}
